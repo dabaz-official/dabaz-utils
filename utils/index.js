@@ -125,3 +125,4 @@ var getNameInitials = (string, limit) => {
   getNameInitials,
   parseDateTime
 });
+
