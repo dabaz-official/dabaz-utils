@@ -1,3 +1,3 @@
-# @dabwave/utils
+# @dabaz/utils
 
-  DabWave Utils Ready to Use
+  DabAZ Utils Ready to Use
